@@ -1,0 +1,91 @@
+{"level":30,"time":"2021-11-30T13:01:34.491Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Listening on 53100"}
+{"level":30,"time":"2021-11-30T13:01:35.929Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T13:01:35.929Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Trace file: "}
+{"level":30,"time":"2021-11-30T13:01:35.946Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Changed active context"}
+{"level":30,"time":"2021-11-30T13:01:35.950Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-11-30T13:01:36.248Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Video path: undefined"}
+{"level":30,"time":"2021-11-30T13:01:36.248Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Changed active page"}
+{"level":30,"time":"2021-11-30T13:01:38.929Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2021-11-30T13:01:39.038Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2021-11-30T13:01:39.126Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Log in in page."}
+{"level":30,"time":"2021-11-30T13:01:40.648Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:40.703Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:40.754Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:40.804Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:40.825Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:41.350Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:41.537Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:41.610Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:41.677Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:41.702Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:42.130Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:42.312Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:42.355Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:42.399Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:42.417Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:42.974Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:43.204Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:43.320Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:43.405Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:43.438Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:43.895Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:44.161Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:44.305Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:44.372Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:44.394Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:44.909Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:45.077Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:45.139Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:45.201Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:45.228Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:45.901Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:46.169Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:46.337Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:46.478Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:46.526Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:47.177Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:47.342Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:47.400Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:47.463Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:47.487Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:47.939Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:48.076Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:48.154Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:48.227Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:48.251Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:48.763Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:48.888Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:48.968Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:49.023Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:49.051Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:49.427Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2021-11-30T13:01:49.543Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2021-11-30T13:01:49.602Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2021-11-30T13:01:49.664Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2021-11-30T13:01:49.690Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2021-11-30T13:01:50.057Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+================= Original suppressed error =================
+locator.fill: Target closed
+=========================== logs ===========================
+waiting for selector "css=#firstname"
+============================================================
+    at C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25765:50
+    at step (C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25695:23)
+    at Object.next (C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25676:53)
+    at fulfilled (C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25667:58) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2021-11-30T13:01:50.075Z","pid":25160,"hostname":"DESKTOP-DK7D96R","msg":"Strict mode is enabled, find Locator with text=Log out in page."}
+================= Original suppressed error =================
+locator.click: Target closed
+=========================== logs ===========================
+waiting for selector "text=Log out"
+============================================================
+    at C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25861:50
+    at step (C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25695:23)
+    at Object.next (C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25676:53)
+    at fulfilled (C:\Users\admin\AppData\Local\robocorp\holotree\2b7547ee0_12a2bf79\lib\site-packages\Browser\wrapper\index.js:25667:58) {
+  name: 'Error'
+}
+=============================================================
